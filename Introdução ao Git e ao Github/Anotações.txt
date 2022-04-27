@@ -1,29 +1,35 @@
 Link para download do GIT para Windows - https://git-scm.com/download/win
 
-O Git bash é um terminal extendido para otimizar o uso do GIT.
+O Git bash Ã© um terminal extendido para otimizar o uso do GIT.
 
 
 
 -COMANDOS BASICOS DO GIT BASH
 
-°Ctrl+l: para limpar o terminal
+Â°Ctrl+l: para limpar o terminal
 
-°cd: para navegar entre as pastas que você digitar (cd..: para voltar um nível)
+Â°cd: para navegar entre as pastas que vocÃª digitar (cd..: para voltar um nÃ­vel)
 
-°TAB: para auto completar
+Â°TAB: para auto completar
 
-°git status: para vê o status do projeto
+Â°git status: para vÃª o status do projeto
 
-°git init: para inicializar e verificar o códico
+Â°git init: para inicializar e verificar o cÃ³dico
 
-°ls - a: para mostrar os arquivos oculto dentro da pasta
+Â°ls - a: para mostrar os arquivos oculto dentro da pasta
 
-°git config -- global user.email "@gmail.com": para registrar um email no commit
+Â°git config -- global user.email "@gmail.com": para registrar um email no commit
 
-°git config -- global user.name "": para registrar um autor
+Â°git config -- global user.name "": para registrar um autor
 
-°git add: para tornar o arquivo reconhecido pelo git (MOVE O ARQUIVO PARA O STAGE)
+Â°git add: para tornar o arquivo reconhecido pelo git (MOVE O ARQUIVO PARA O STAGE)
 
-°git commit - m "anotação da alteração": para salvar o arquivo
+Â°git commit - m "anotaÃ§Ã£o da alteraÃ§Ã£o": para salvar o arquivo
 
-°git restore -- para modificarlos novamente
+Â°git restore -- para modificarlos novamente
+
+Â°git push origin master: para enviar
+
+Â°git pull origin master: para upar o arquivo do github na sua maquina
+
+Â°git clone *LINK HTTPS*: para clonar o cÃ³dio do github
