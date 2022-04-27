@@ -1,0 +1,29 @@
+Link para download do GIT para Windows - https://git-scm.com/download/win
+
+O Git bash é um terminal extendido para otimizar o uso do GIT.
+
+
+
+-COMANDOS BASICOS DO GIT BASH
+
+°Ctrl+l: para limpar o terminal
+
+°cd: para navegar entre as pastas que você digitar (cd..: para voltar um nível)
+
+°TAB: para auto completar
+
+°git status: para vê o status do projeto
+
+°git init: para inicializar e verificar o códico
+
+°ls - a: para mostrar os arquivos oculto dentro da pasta
+
+°git config -- global user.email "@gmail.com": para registrar um email no commit
+
+°git config -- global user.name "": para registrar um autor
+
+°git add: para tornar o arquivo reconhecido pelo git (MOVE O ARQUIVO PARA O STAGE)
+
+°git commit - m "anotação da alteração": para salvar o arquivo
+
+°git restore -- para modificarlos novamente
